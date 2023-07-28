@@ -41,9 +41,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main extends ListenerAdapter {
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
-//    private static final String TOKEN_BOT = "OTIwNjc4NDc1NzYzOTc0MTY1.Gel7hD.ojVC-Zjmj1-fiBNz2uVsSx7v-vMhBjI9QHwssA";
-//    private static final String SPOTIFY_CLIENT_ID = "682b50318b23415ab65a08e53449f333";
-//    private static final String SPOTIFY_CLIENT_SECRET = "239d367edea04e12811acf3b2d865f8d";
+
     private static final String TOKEN_BOT = "TOKEN BOT HERE";
 
     private static final String SPOTIFY_CLIENT_ID = "CLIENT ID HERE";
